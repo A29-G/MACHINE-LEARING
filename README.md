@@ -55,3 +55,7 @@ The model achieves over 97% accuracy on the dataset, with strong performance acr
 
 This project demonstrates a strong foundational application of natural language processing and machine learning for real-world problems, making it an ideal addition to any data science portfolio.
 
+*OUTPUT*
+
+[spam_classification_output.xlsx](https://github.com/user-attachments/files/19906603/spam_classification_output.xlsx)
+
