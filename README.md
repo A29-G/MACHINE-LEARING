@@ -1,5 +1,19 @@
 # MACHINE-LEARING
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: AISHWARYA VEERANAGOUDA GIRIYAL
+
+INTERN ID: CT04WU10
+
+DOMAIN: PYTHON PROGRAMMING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
+
+*DESCRIPTION*
+
 ## Project Explanation (500 Words)
 
 The Spam Detection project is a supervised machine learning solution that aims to classify SMS messages as either "spam" or "ham" (not spam). This kind of text classification system is commonly used in email filters, messaging apps, and other communication tools to protect users from unwanted or potentially harmful content.
